@@ -114,7 +114,7 @@ A lightweight file containing the most recent snapshot. Useful for checking curr
 ### JavaScript — latest snapshot (meta.json)
 
 ```js
-const res = await fetch("https://raw.githubusercontent.com/nolan2327/UCLA-Recreation-Dataset-Public/main/JWC/meta.json");
+const res = await fetch("https://raw.githubusercontent.com/nolan2327/ucla-gym-data/main/JWC/meta.json");
 const data = await res.json();
 console.log(data.latest.total_percentage); // e.g. 8
 ```
@@ -122,7 +122,7 @@ console.log(data.latest.total_percentage); // e.g. 8
 ### JavaScript — full dataset
 
 ```js
-const res = await fetch("https://raw.githubusercontent.com/nolan2327/UCLA-Recreation-Dataset-Public/main/JWC/jwc_data.json");
+const res = await fetch("https://raw.githubusercontent.com/nolan2327/ucla-gym-data/main/JWC/jwc_data.json");
 const records = await res.json();
 const latest = records[records.length - 1];
 console.log(latest.total_percentage);
@@ -134,7 +134,7 @@ console.log(latest.total_percentage);
 import requests
 
 meta = requests.get(
-    "https://raw.githubusercontent.com/nolan2327/UCLA-Recreation-Dataset-Public/main/JWC/meta.json"
+    "https://raw.githubusercontent.com/nolan2327/ucla-gym-data/main/JWC/meta.json"
 ).json()
 
 print(meta["latest"]["total_percentage"])
@@ -146,7 +146,7 @@ print(meta["latest"]["total_percentage"])
 import requests
 
 records = requests.get(
-    "https://raw.githubusercontent.com/nolan2327/UCLA-Recreation-Dataset-Public/main/JWC/jwc_data.json"
+    "https://raw.githubusercontent.com/nolan2327/ucla-gym-data/main/JWC/jwc_data.json"
 ).json()
 
 latest = records[-1]
