@@ -1,0 +1,22 @@
+# IDE (jetbrains :P)
+.idea/
+
+# Build
+cmake-build-debug/
+cmake-build-release/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# C/C++
+*.o
+*.out
+*.a
+*.so
