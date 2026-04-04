@@ -1,38 +1,38 @@
 {
-  "last_updated": "03/26/2026 02:34 PM",
-  "record_count": 3374,
+  "last_updated": "04/03/2026 07:10 PM",
+  "record_count": 3407,
   "source_collection": "clean_backup_krec",
   "schema_version": "1.0",
   "latest": {
-    "time_collected": "2026-03-26T15:01:03",
-    "weekday": "Thursday",
-    "total_population": 21,
-    "total_percentage": 7,
+    "time_collected": "2026-04-03T19:31:00",
+    "weekday": "Friday",
+    "total_population": 38,
+    "total_percentage": 11,
     "zones": [
       {
         "place_name": "Cardio Zone",
-        "population": 7,
-        "percentage": 9
+        "population": 12,
+        "percentage": 16
       },
       {
         "place_name": "Free Weight Zone",
-        "population": 7,
-        "percentage": 7
+        "population": 12,
+        "percentage": 12
       },
       {
         "place_name": "Studio",
-        "population": 2,
-        "percentage": 8
+        "population": 3,
+        "percentage": 12
       },
       {
         "place_name": "Courtyard",
-        "population": 3,
-        "percentage": 3
+        "population": 10,
+        "percentage": 10
       },
       {
         "place_name": "Community Center",
-        "population": 2,
-        "percentage": 10
+        "population": 1,
+        "percentage": 5
       }
     ]
   }
