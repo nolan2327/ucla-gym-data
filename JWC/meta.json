@@ -1,53 +1,53 @@
 {
-  "last_updated": "05/01/2026 07:53 PM",
-  "record_count": 5190,
+  "last_updated": "05/08/2026 08:10 PM",
+  "record_count": 5286,
   "source_collection": "clean_backup_jwc",
   "schema_version": "1.0",
   "latest": {
-    "time_collected": "2026-05-01T20:00:59",
+    "time_collected": "2026-05-08T20:31:04",
     "weekday": "Friday",
-    "total_population": 142,
-    "total_percentage": 38,
+    "total_population": 149,
+    "total_percentage": 39,
     "zones": [
       {
         "place_name": "Pardee Gym",
-        "population": 40,
-        "percentage": 80
+        "population": 27,
+        "percentage": 54
       },
       {
         "place_name": "Cardio Zone",
-        "population": 12,
-        "percentage": 20
+        "population": 23,
+        "percentage": 38
       },
       {
         "place_name": "Free Weight Zone",
-        "population": 24,
-        "percentage": 37
-      },
-      {
-        "place_name": "Functional Training Zone",
-        "population": 4,
-        "percentage": 10
-      },
-      {
-        "place_name": "Courtyard",
-        "population": 4,
-        "percentage": 9
-      },
-      {
-        "place_name": "Advanced Circuit Zone",
-        "population": 19,
+        "population": 27,
         "percentage": 42
       },
       {
-        "place_name": "Novice Circuit Zone",
-        "population": 10,
-        "percentage": 50
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
       },
       {
-        "place_name": "Room 1258",
-        "population": 29,
-        "percentage": 58
+        "place_name": "Courtyard",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 18,
+        "percentage": 40
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 8,
+        "percentage": 40
+      },
+      {
+        "place_name": "The Pit",
+        "population": 31,
+        "percentage": 62
       }
     ]
   }
