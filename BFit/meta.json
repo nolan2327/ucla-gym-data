@@ -1,38 +1,38 @@
 {
-  "last_updated": "05/29/2026 07:59 PM",
-  "record_count": 4498,
+  "last_updated": "06/05/2026 07:57 PM",
+  "record_count": 4590,
   "source_collection": "clean_backup_bfit",
   "schema_version": "1.0",
   "latest": {
-    "time_collected": "2026-05-29T20:31:02",
+    "time_collected": "2026-06-05T20:00:59",
     "weekday": "Friday",
-    "total_population": 79,
-    "total_percentage": 26,
+    "total_population": 55,
+    "total_percentage": 17,
     "zones": [
       {
         "place_name": "Cardio Zones 1&2",
-        "population": 20,
-        "percentage": 20
+        "population": 19,
+        "percentage": 19
       },
       {
         "place_name": "Flexibility Zones",
-        "population": 5,
-        "percentage": 17
+        "population": 2,
+        "percentage": 7
       },
       {
         "place_name": "Free Weight & Squat Zones",
-        "population": 19,
-        "percentage": 24
+        "population": 11,
+        "percentage": 14
       },
       {
         "place_name": "Cable, Synergy Zones",
-        "population": 14,
-        "percentage": 28
+        "population": 9,
+        "percentage": 18
       },
       {
         "place_name": "Selectorized Zone",
-        "population": 21,
-        "percentage": 42
+        "population": 14,
+        "percentage": 28
       }
     ]
   }
