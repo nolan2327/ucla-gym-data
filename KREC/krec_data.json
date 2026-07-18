@@ -138453,5 +138453,905 @@
       }
     ],
     "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 20,
+    "total_percentage": 6,
+    "time_collected": "2026-07-11T10:01:21",
+    "last_updated": "07/11/2026 10:00 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 6,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 35,
+    "total_percentage": 14,
+    "time_collected": "2026-07-11T11:01:24",
+    "last_updated": "07/11/2026 11:00 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 9
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Studio",
+        "population": 5,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Community Center",
+        "population": 5,
+        "percentage": 25
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 17,
+    "total_percentage": 4,
+    "time_collected": "2026-07-11T12:31:18",
+    "last_updated": "07/11/2026 12:06 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 9
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 5,
+        "percentage": 5
+      },
+      {
+        "place_name": "Studio",
+        "population": 1,
+        "percentage": 4
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 4,
+        "percentage": 4
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 18,
+    "total_percentage": 5,
+    "time_collected": "2026-07-11T13:01:20",
+    "last_updated": "07/11/2026 01:00 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 6,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 3,
+        "percentage": 3
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 13,
+    "total_percentage": 5,
+    "time_collected": "2026-07-11T14:31:20",
+    "last_updated": "07/11/2026 02:19 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 3,
+        "percentage": 3
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 16,
+    "total_percentage": 5,
+    "time_collected": "2026-07-12T11:01:32",
+    "last_updated": "07/12/2026 10:43 AM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 4,
+        "percentage": 5
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 20,
+    "total_percentage": 6,
+    "time_collected": "2026-07-13T16:01:06",
+    "last_updated": "07/13/2026 03:34 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 4,
+        "percentage": 4
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 35,
+    "total_percentage": 12,
+    "time_collected": "2026-07-13T18:01:03",
+    "last_updated": "07/13/2026 05:32 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 15
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Studio",
+        "population": 5,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 43,
+    "total_percentage": 15,
+    "time_collected": "2026-07-14T18:31:01",
+    "last_updated": "07/14/2026 06:11 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Studio",
+        "population": 8,
+        "percentage": 32
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 34,
+    "total_percentage": 14,
+    "time_collected": "2026-07-14T19:31:02",
+    "last_updated": "07/14/2026 07:14 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 8,
+        "percentage": 11
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Studio",
+        "population": 9,
+        "percentage": 36
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Community Center",
+        "population": 2,
+        "percentage": 10
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 22,
+    "total_percentage": 8,
+    "time_collected": "2026-07-15T07:31:03",
+    "last_updated": "07/15/2026 07:11 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 4
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Studio",
+        "population": 4,
+        "percentage": 16
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 28,
+    "total_percentage": 11,
+    "time_collected": "2026-07-15T16:01:02",
+    "last_updated": "07/15/2026 03:57 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 9
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Studio",
+        "population": 7,
+        "percentage": 28
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 4,
+        "percentage": 4
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 27,
+    "total_percentage": 8,
+    "time_collected": "2026-07-15T17:31:01",
+    "last_updated": "07/15/2026 05:11 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Studio",
+        "population": 3,
+        "percentage": 12
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 43,
+    "total_percentage": 14,
+    "time_collected": "2026-07-15T18:31:04",
+    "last_updated": "07/15/2026 06:20 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Studio",
+        "population": 6,
+        "percentage": 24
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Community Center",
+        "population": 2,
+        "percentage": 10
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 61,
+    "total_percentage": 20,
+    "time_collected": "2026-07-15T19:31:09",
+    "last_updated": "07/15/2026 07:04 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 15,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 19,
+        "percentage": 19
+      },
+      {
+        "place_name": "Studio",
+        "population": 7,
+        "percentage": 28
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 17,
+        "percentage": 17
+      },
+      {
+        "place_name": "Community Center",
+        "population": 3,
+        "percentage": 15
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 9,
+    "total_percentage": 3,
+    "time_collected": "2026-07-16T08:31:04",
+    "last_updated": "07/16/2026 08:04 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 2,
+        "percentage": 3
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Studio",
+        "population": 1,
+        "percentage": 4
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 3,
+        "percentage": 3
+      },
+      {
+        "place_name": "Community Center",
+        "population": 1,
+        "percentage": 5
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 10,
+    "total_percentage": 5,
+    "time_collected": "2026-07-16T11:01:04",
+    "last_updated": "07/16/2026 10:37 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 4
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 1,
+        "percentage": 1
+      },
+      {
+        "place_name": "Studio",
+        "population": 4,
+        "percentage": 16
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 8,
+    "total_percentage": 3,
+    "time_collected": "2026-07-16T11:31:03",
+    "last_updated": "07/16/2026 11:10 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 2,
+        "percentage": 3
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 11,
+    "total_percentage": 3,
+    "time_collected": "2026-07-16T14:01:02",
+    "last_updated": "07/16/2026 01:55 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 1,
+        "percentage": 1
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 23,
+    "total_percentage": 9,
+    "time_collected": "2026-07-16T16:30:59",
+    "last_updated": "07/16/2026 04:21 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Studio",
+        "population": 3,
+        "percentage": 12
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 3,
+        "percentage": 3
+      },
+      {
+        "place_name": "Community Center",
+        "population": 2,
+        "percentage": 10
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 35,
+    "total_percentage": 11,
+    "time_collected": "2026-07-16T17:31:03",
+    "last_updated": "07/16/2026 05:26 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 15,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Studio",
+        "population": 1,
+        "percentage": 4
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 5,
+        "percentage": 5
+      },
+      {
+        "place_name": "Community Center",
+        "population": 3,
+        "percentage": 15
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 51,
+    "total_percentage": 21,
+    "time_collected": "2026-07-16T18:31:01",
+    "last_updated": "07/16/2026 06:01 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 16
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Studio",
+        "population": 8,
+        "percentage": 32
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Community Center",
+        "population": 7,
+        "percentage": 35
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 35,
+    "total_percentage": 11,
+    "time_collected": "2026-07-16T19:31:02",
+    "last_updated": "07/16/2026 07:14 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 14,
+        "percentage": 19
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Studio",
+        "population": 5,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 17,
+    "total_percentage": 7,
+    "time_collected": "2026-07-17T17:31:02",
+    "last_updated": "07/17/2026 05:02 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 6,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 4,
+        "percentage": 4
+      },
+      {
+        "place_name": "Studio",
+        "population": 2,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 2,
+        "percentage": 2
+      },
+      {
+        "place_name": "Community Center",
+        "population": 3,
+        "percentage": 15
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 3,
+    "total_population": 45,
+    "total_percentage": 13,
+    "time_collected": "2026-07-17T19:31:02",
+    "last_updated": "07/17/2026 07:21 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zone",
+        "population": 18,
+        "percentage": 24
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Studio",
+        "population": 5,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Community Center",
+        "population": 0,
+        "percentage": 0
+      }
+    ],
+    "__v": 0
   }
 ]

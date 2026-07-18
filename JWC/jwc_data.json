@@ -294954,5 +294954,3830 @@
       }
     ],
     "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 46,
+    "total_percentage": 12,
+    "time_collected": "2026-07-11T09:31:23",
+    "last_updated": "07/11/2026 09:16 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 82,
+    "total_percentage": 22,
+    "time_collected": "2026-07-11T11:01:24",
+    "last_updated": "07/11/2026 10:40 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 13,
+        "percentage": 22
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 17,
+        "percentage": 38
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 5,
+        "percentage": 25
+      },
+      {
+        "place_name": "The Pit",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 69,
+    "total_percentage": 19,
+    "time_collected": "2026-07-11T12:01:20",
+    "last_updated": "07/11/2026 11:34 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 18
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 8,
+        "percentage": 18
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 5,
+        "percentage": 25
+      },
+      {
+        "place_name": "The Pit",
+        "population": 17,
+        "percentage": 34
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 74,
+    "total_percentage": 20,
+    "time_collected": "2026-07-11T13:01:20",
+    "last_updated": "07/11/2026 12:46 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 17,
+        "percentage": 34
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 6,
+        "percentage": 30
+      },
+      {
+        "place_name": "The Pit",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 69,
+    "total_percentage": 19,
+    "time_collected": "2026-07-11T14:01:18",
+    "last_updated": "07/11/2026 01:36 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 18,
+        "percentage": 30
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 9
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 10,
+        "percentage": 25
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 116,
+    "total_percentage": 30,
+    "time_collected": "2026-07-11T17:01:19",
+    "last_updated": "07/11/2026 04:06 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 22,
+        "percentage": 44
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 28,
+        "percentage": 47
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 16,
+        "percentage": 25
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 12,
+        "percentage": 30
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 21,
+        "percentage": 42
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 45,
+    "total_percentage": 12,
+    "time_collected": "2026-07-12T10:01:26",
+    "last_updated": "07/12/2026 09:33 AM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 4,
+        "percentage": 8
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 9,
+        "percentage": 18
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 85,
+    "total_percentage": 23,
+    "time_collected": "2026-07-12T11:01:32",
+    "last_updated": "07/12/2026 10:44 AM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 20,
+        "percentage": 40
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 9,
+        "percentage": 23
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 18,
+        "percentage": 40
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 5,
+        "percentage": 25
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 82,
+    "total_percentage": 21,
+    "time_collected": "2026-07-12T13:01:32",
+    "last_updated": "07/12/2026 12:45 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 8,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 17,
+        "percentage": 28
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 9,
+        "percentage": 23
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 19,
+        "percentage": 42
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 74,
+    "total_percentage": 22,
+    "time_collected": "2026-07-12T13:31:30",
+    "last_updated": "07/12/2026 01:30 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 15
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 2,
+        "percentage": 5
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 14,
+        "percentage": 31
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 10,
+        "percentage": 50
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 78,
+    "total_percentage": 21,
+    "time_collected": "2026-07-12T15:01:31",
+    "last_updated": "07/12/2026 02:52 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 13,
+        "percentage": 33
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 19,
+        "percentage": 38
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 27,
+    "total_percentage": 7,
+    "time_collected": "2026-07-13T06:01:05",
+    "last_updated": "07/13/2026 05:41 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 2,
+        "percentage": 5
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 6,
+        "percentage": 13
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 6,
+        "percentage": 12
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 49,
+    "total_percentage": 13,
+    "time_collected": "2026-07-13T07:01:02",
+    "last_updated": "07/13/2026 06:35 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 15
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 9
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 15,
+        "percentage": 33
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 54,
+    "total_percentage": 14,
+    "time_collected": "2026-07-13T08:01:04",
+    "last_updated": "07/13/2026 07:36 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 1,
+        "percentage": 2
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 13,
+        "percentage": 22
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 36,
+    "total_percentage": 10,
+    "time_collected": "2026-07-13T09:01:03",
+    "last_updated": "07/13/2026 08:34 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 8,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 4,
+        "percentage": 6
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 43,
+    "total_percentage": 12,
+    "time_collected": "2026-07-13T10:00:59",
+    "last_updated": "07/13/2026 09:45 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 8,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 7,
+        "percentage": 14
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 43,
+    "total_percentage": 12,
+    "time_collected": "2026-07-13T12:01:04",
+    "last_updated": "07/13/2026 11:33 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 8,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 7,
+        "percentage": 14
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 65,
+    "total_percentage": 17,
+    "time_collected": "2026-07-13T13:01:07",
+    "last_updated": "07/13/2026 12:44 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 15,
+        "percentage": 25
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 10,
+        "percentage": 15
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 70,
+    "total_percentage": 19,
+    "time_collected": "2026-07-13T13:31:05",
+    "last_updated": "07/13/2026 01:20 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 5,
+        "percentage": 25
+      },
+      {
+        "place_name": "The Pit",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 81,
+    "total_percentage": 21,
+    "time_collected": "2026-07-13T15:01:03",
+    "last_updated": "07/13/2026 02:46 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 13,
+        "percentage": 22
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 15,
+        "percentage": 23
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 17,
+        "percentage": 38
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 83,
+    "total_percentage": 21,
+    "time_collected": "2026-07-13T16:01:06",
+    "last_updated": "07/13/2026 03:35 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 18
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 13,
+        "percentage": 20
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 20,
+        "percentage": 44
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 101,
+    "total_percentage": 27,
+    "time_collected": "2026-07-13T16:31:03",
+    "last_updated": "07/13/2026 04:14 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 18,
+        "percentage": 36
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 16,
+        "percentage": 27
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 22,
+        "percentage": 49
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 19,
+        "percentage": 38
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 190,
+    "total_percentage": 49,
+    "time_collected": "2026-07-13T18:01:03",
+    "last_updated": "07/13/2026 05:51 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 30,
+        "percentage": 60
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 35,
+        "percentage": 58
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 31,
+        "percentage": 48
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 15,
+        "percentage": 38
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 38,
+        "percentage": 84
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 8,
+        "percentage": 40
+      },
+      {
+        "place_name": "The Pit",
+        "population": 33,
+        "percentage": 66
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 176,
+    "total_percentage": 35,
+    "time_collected": "2026-07-13T20:01:03",
+    "last_updated": "07/13/2026 07:50 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 35,
+        "percentage": 58
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 31,
+        "percentage": 48
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 15,
+        "percentage": 38
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 38,
+        "percentage": 0
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 8,
+        "percentage": 40
+      },
+      {
+        "place_name": "The Pit",
+        "population": 33,
+        "percentage": 66
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 50,
+    "total_percentage": 3,
+    "time_collected": "2026-07-14T06:01:01",
+    "last_updated": "07/14/2026 05:25 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 4,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 1,
+        "percentage": 3
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 38,
+        "percentage": 0
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 3,
+        "percentage": 6
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 84,
+    "total_percentage": 11,
+    "time_collected": "2026-07-14T07:01:00",
+    "last_updated": "07/14/2026 06:32 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 10,
+        "percentage": 15
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 38,
+        "percentage": 0
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "The Pit",
+        "population": 19,
+        "percentage": 38
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 64,
+    "total_percentage": 16,
+    "time_collected": "2026-07-14T08:01:00",
+    "last_updated": "07/14/2026 07:36 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 16,
+        "percentage": 27
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 60,
+    "total_percentage": 16,
+    "time_collected": "2026-07-14T09:01:05",
+    "last_updated": "07/14/2026 08:37 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 14,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 47,
+    "total_percentage": 12,
+    "time_collected": "2026-07-14T10:01:07",
+    "last_updated": "07/14/2026 09:43 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 5,
+        "percentage": 11
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 48,
+    "total_percentage": 12,
+    "time_collected": "2026-07-14T10:31:03",
+    "last_updated": "07/14/2026 10:25 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 10,
+        "percentage": 15
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 49,
+    "total_percentage": 12,
+    "time_collected": "2026-07-14T11:31:05",
+    "last_updated": "07/14/2026 11:29 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 13,
+        "percentage": 22
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "The Pit",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 53,
+    "total_percentage": 14,
+    "time_collected": "2026-07-14T13:01:00",
+    "last_updated": "07/14/2026 12:36 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 4,
+        "percentage": 8
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 15
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 42,
+    "total_percentage": 11,
+    "time_collected": "2026-07-14T13:31:05",
+    "last_updated": "07/14/2026 01:23 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 42,
+    "total_percentage": 11,
+    "time_collected": "2026-07-14T15:31:04",
+    "last_updated": "07/14/2026 03:15 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 72,
+    "total_percentage": 20,
+    "time_collected": "2026-07-14T16:31:02",
+    "last_updated": "07/14/2026 04:16 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 5,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 13,
+        "percentage": 33
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 14,
+        "percentage": 31
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 185,
+    "total_percentage": 48,
+    "time_collected": "2026-07-14T18:01:01",
+    "last_updated": "07/14/2026 05:39 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 21,
+        "percentage": 42
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 33,
+        "percentage": 55
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 34,
+        "percentage": 52
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 17,
+        "percentage": 43
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 33,
+        "percentage": 73
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 9,
+        "percentage": 45
+      },
+      {
+        "place_name": "The Pit",
+        "population": 38,
+        "percentage": 76
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 146,
+    "total_percentage": 38,
+    "time_collected": "2026-07-14T20:01:03",
+    "last_updated": "07/14/2026 07:56 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 18,
+        "percentage": 36
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 22,
+        "percentage": 37
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 29,
+        "percentage": 45
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 9,
+        "percentage": 23
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 26,
+        "percentage": 58
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 6,
+        "percentage": 30
+      },
+      {
+        "place_name": "The Pit",
+        "population": 36,
+        "percentage": 72
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 35,
+    "total_percentage": 9,
+    "time_collected": "2026-07-15T06:01:04",
+    "last_updated": "07/15/2026 05:41 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 9,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 4,
+        "percentage": 6
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 5,
+        "percentage": 11
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 47,
+    "total_percentage": 14,
+    "time_collected": "2026-07-15T06:31:07",
+    "last_updated": "07/15/2026 06:27 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 1,
+        "percentage": 3
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 8,
+        "percentage": 18
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 6,
+        "percentage": 30
+      },
+      {
+        "place_name": "The Pit",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 49,
+    "total_percentage": 12,
+    "time_collected": "2026-07-15T08:31:07",
+    "last_updated": "07/15/2026 08:06 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 6,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 12
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 21,
+        "percentage": 42
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 50,
+    "total_percentage": 13,
+    "time_collected": "2026-07-15T09:01:07",
+    "last_updated": "07/15/2026 08:32 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 52,
+    "total_percentage": 13,
+    "time_collected": "2026-07-15T11:01:03",
+    "last_updated": "07/15/2026 10:38 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 15,
+        "percentage": 23
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 49,
+    "total_percentage": 13,
+    "time_collected": "2026-07-15T12:01:00",
+    "last_updated": "07/15/2026 11:33 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 9,
+        "percentage": 18
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 74,
+    "total_percentage": 19,
+    "time_collected": "2026-07-15T13:31:02",
+    "last_updated": "07/15/2026 01:12 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 15,
+        "percentage": 23
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 67,
+    "total_percentage": 19,
+    "time_collected": "2026-07-15T15:01:01",
+    "last_updated": "07/15/2026 02:35 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 5,
+        "percentage": 25
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 74,
+    "total_percentage": 20,
+    "time_collected": "2026-07-15T16:01:02",
+    "last_updated": "07/15/2026 03:37 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 13,
+        "percentage": 22
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 127,
+    "total_percentage": 34,
+    "time_collected": "2026-07-15T17:01:03",
+    "last_updated": "07/15/2026 04:33 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 31,
+        "percentage": 62
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 21,
+        "percentage": 32
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 7,
+        "percentage": 18
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 20,
+        "percentage": 44
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 9,
+        "percentage": 45
+      },
+      {
+        "place_name": "The Pit",
+        "population": 27,
+        "percentage": 54
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 130,
+    "total_percentage": 35,
+    "time_collected": "2026-07-15T17:31:01",
+    "last_updated": "07/15/2026 05:29 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 31,
+        "percentage": 62
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 23,
+        "percentage": 35
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 20,
+        "percentage": 44
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 9,
+        "percentage": 45
+      },
+      {
+        "place_name": "The Pit",
+        "population": 27,
+        "percentage": 54
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 141,
+    "total_percentage": 38,
+    "time_collected": "2026-07-15T19:01:04",
+    "last_updated": "07/15/2026 06:35 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 32,
+        "percentage": 64
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 19,
+        "percentage": 32
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 23,
+        "percentage": 35
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 8,
+        "percentage": 20
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 21,
+        "percentage": 47
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 9,
+        "percentage": 45
+      },
+      {
+        "place_name": "The Pit",
+        "population": 29,
+        "percentage": 58
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 116,
+    "total_percentage": 31,
+    "time_collected": "2026-07-15T19:31:09",
+    "last_updated": "07/15/2026 07:23 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 25,
+        "percentage": 50
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 13,
+        "percentage": 22
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 21,
+        "percentage": 32
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 19,
+        "percentage": 42
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 7,
+        "percentage": 35
+      },
+      {
+        "place_name": "The Pit",
+        "population": 25,
+        "percentage": 50
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 12,
+    "total_percentage": 3,
+    "time_collected": "2026-07-16T06:01:02",
+    "last_updated": "07/16/2026 05:32 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 1,
+        "percentage": 2
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "The Pit",
+        "population": 2,
+        "percentage": 4
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 36,
+    "total_percentage": 9,
+    "time_collected": "2026-07-16T07:01:02",
+    "last_updated": "07/16/2026 06:40 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 1,
+        "percentage": 2
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "The Pit",
+        "population": 7,
+        "percentage": 14
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 45,
+    "total_percentage": 12,
+    "time_collected": "2026-07-16T08:01:03",
+    "last_updated": "07/16/2026 07:43 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 9
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 2,
+        "percentage": 5
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 14,
+        "percentage": 31
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 17,
+        "percentage": 34
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 32,
+    "total_percentage": 10,
+    "time_collected": "2026-07-16T09:01:02",
+    "last_updated": "07/16/2026 08:37 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 3,
+        "percentage": 5
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 38,
+    "total_percentage": 11,
+    "time_collected": "2026-07-16T10:01:04",
+    "last_updated": "07/16/2026 09:39 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 4,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 58,
+    "total_percentage": 16,
+    "time_collected": "2026-07-16T11:31:03",
+    "last_updated": "07/16/2026 11:28 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 5,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 8,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 23,
+        "percentage": 46
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 55,
+    "total_percentage": 14,
+    "time_collected": "2026-07-16T14:01:02",
+    "last_updated": "07/16/2026 01:34 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 6,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 12
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 22,
+        "percentage": 44
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 68,
+    "total_percentage": 18,
+    "time_collected": "2026-07-16T15:01:04",
+    "last_updated": "07/16/2026 02:35 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 8,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 20,
+        "percentage": 40
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 68,
+    "total_percentage": 18,
+    "time_collected": "2026-07-16T16:30:59",
+    "last_updated": "07/16/2026 03:39 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 8,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 10,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 3,
+        "percentage": 15
+      },
+      {
+        "place_name": "The Pit",
+        "population": 20,
+        "percentage": 40
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 93,
+    "total_percentage": 24,
+    "time_collected": "2026-07-16T17:01:03",
+    "last_updated": "07/16/2026 04:40 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 20,
+        "percentage": 40
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 6,
+        "percentage": 15
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 18,
+        "percentage": 40
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 19,
+        "percentage": 38
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 163,
+    "total_percentage": 46,
+    "time_collected": "2026-07-16T17:31:03",
+    "last_updated": "07/16/2026 05:27 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 27,
+        "percentage": 54
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 21,
+        "percentage": 35
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 30,
+        "percentage": 75
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 35,
+        "percentage": 78
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 10,
+        "percentage": 50
+      },
+      {
+        "place_name": "The Pit",
+        "population": 26,
+        "percentage": 52
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 163,
+    "total_percentage": 46,
+    "time_collected": "2026-07-16T18:31:01",
+    "last_updated": "07/16/2026 06:17 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 27,
+        "percentage": 54
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 21,
+        "percentage": 35
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 14,
+        "percentage": 22
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 30,
+        "percentage": 75
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 35,
+        "percentage": 78
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 10,
+        "percentage": 50
+      },
+      {
+        "place_name": "The Pit",
+        "population": 26,
+        "percentage": 52
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 177,
+    "total_percentage": 51,
+    "time_collected": "2026-07-16T19:01:05",
+    "last_updated": "07/16/2026 06:44 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 31,
+        "percentage": 62
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 20,
+        "percentage": 33
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 28,
+        "percentage": 43
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 10,
+        "percentage": 25
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 39,
+        "percentage": 87
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 19,
+        "percentage": 95
+      },
+      {
+        "place_name": "The Pit",
+        "population": 30,
+        "percentage": 60
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 33,
+    "total_percentage": 8,
+    "time_collected": "2026-07-17T07:01:04",
+    "last_updated": "07/17/2026 06:32 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 4,
+        "percentage": 8
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 9,
+        "percentage": 14
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 4,
+        "percentage": 9
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 1,
+        "percentage": 5
+      },
+      {
+        "place_name": "The Pit",
+        "population": 7,
+        "percentage": 14
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 46,
+    "total_percentage": 12,
+    "time_collected": "2026-07-17T08:00:57",
+    "last_updated": "07/17/2026 07:37 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 8,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 10,
+        "percentage": 15
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 7,
+        "percentage": 16
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 41,
+    "total_percentage": 13,
+    "time_collected": "2026-07-17T08:31:04",
+    "last_updated": "07/17/2026 08:21 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 6,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 5,
+        "percentage": 8
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 2,
+        "percentage": 5
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 9,
+        "percentage": 20
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 7,
+        "percentage": 35
+      },
+      {
+        "place_name": "The Pit",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 50,
+    "total_percentage": 15,
+    "time_collected": "2026-07-17T10:01:00",
+    "last_updated": "07/17/2026 09:36 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 8,
+        "percentage": 40
+      },
+      {
+        "place_name": "The Pit",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 50,
+    "total_percentage": 15,
+    "time_collected": "2026-07-17T11:01:01",
+    "last_updated": "07/17/2026 10:31 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 8,
+        "percentage": 40
+      },
+      {
+        "place_name": "The Pit",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 50,
+    "total_percentage": 15,
+    "time_collected": "2026-07-17T12:01:03",
+    "last_updated": "07/17/2026 11:31 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 7,
+        "percentage": 11
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 3,
+        "percentage": 8
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 8,
+        "percentage": 40
+      },
+      {
+        "place_name": "The Pit",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 50,
+    "total_percentage": 13,
+    "time_collected": "2026-07-17T12:31:04",
+    "last_updated": "07/17/2026 12:22 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 15
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 8,
+        "percentage": 12
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 13,
+        "percentage": 29
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 44,
+    "total_percentage": 12,
+    "time_collected": "2026-07-17T13:31:08",
+    "last_updated": "07/17/2026 01:09 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 5,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 9,
+        "percentage": 15
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 6,
+        "percentage": 9
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 4,
+        "percentage": 10
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 45,
+    "total_percentage": 12,
+    "time_collected": "2026-07-17T15:01:03",
+    "last_updated": "07/17/2026 02:41 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 1,
+        "percentage": 2
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 7,
+        "percentage": 12
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 11,
+        "percentage": 17
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 2,
+        "percentage": 5
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 14,
+        "percentage": 31
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 2,
+        "percentage": 10
+      },
+      {
+        "place_name": "The Pit",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 61,
+    "total_percentage": 16,
+    "time_collected": "2026-07-17T15:31:03",
+    "last_updated": "07/17/2026 03:18 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 18
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 61,
+    "total_percentage": 16,
+    "time_collected": "2026-07-17T17:01:03",
+    "last_updated": "07/17/2026 04:34 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 12,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 12,
+        "percentage": 18
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 5,
+        "percentage": 13
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 10,
+        "percentage": 22
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 2,
+    "total_population": 67,
+    "total_percentage": 18,
+    "time_collected": "2026-07-17T18:01:07",
+    "last_updated": "07/17/2026 05:33 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Pardee Gym",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cardio Zone",
+        "population": 11,
+        "percentage": 18
+      },
+      {
+        "place_name": "Free Weight Zone",
+        "population": 15,
+        "percentage": 23
+      },
+      {
+        "place_name": "Functional Training Zone",
+        "population": 7,
+        "percentage": 18
+      },
+      {
+        "place_name": "Courtyard",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Advanced Circuit Zone",
+        "population": 11,
+        "percentage": 24
+      },
+      {
+        "place_name": "Novice Circuit Zone",
+        "population": 4,
+        "percentage": 20
+      },
+      {
+        "place_name": "The Pit",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
   }
 ]
