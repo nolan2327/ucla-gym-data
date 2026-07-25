@@ -1,18 +1,18 @@
 {
-  "last_updated": "07/17/2026 04:05 PM",
-  "record_count": 4785,
+  "last_updated": "07/24/2026 02:59 PM",
+  "record_count": 4816,
   "source_collection": "clean_backup_bfit",
   "schema_version": "1.0",
   "latest": {
-    "time_collected": "2026-07-17T16:31:04",
+    "time_collected": "2026-07-24T15:01:05",
     "weekday": "Friday",
-    "total_population": 15,
-    "total_percentage": 5,
+    "total_population": 10,
+    "total_percentage": 4,
     "zones": [
       {
         "place_name": "Cardio Zones 1&2",
-        "population": 4,
-        "percentage": 4
+        "population": 1,
+        "percentage": 1
       },
       {
         "place_name": "Flexibility Zones",
@@ -26,8 +26,8 @@
       },
       {
         "place_name": "Cable, Synergy Zones",
-        "population": 5,
-        "percentage": 10
+        "population": 3,
+        "percentage": 6
       },
       {
         "place_name": "Selectorized Zone",
