@@ -1,12 +1,12 @@
 {
-  "last_updated": "09/11/2026 07:02 PM",
-  "record_count": 4091,
+  "last_updated": "09/18/2026 07:20 PM",
+  "record_count": 4119,
   "source_collection": "clean_backup_krec",
   "schema_version": "1.0",
   "latest": {
-    "time_collected": "2026-09-11T19:31:03",
+    "time_collected": "2026-09-18T19:31:02",
     "weekday": "Friday",
-    "total_population": 35,
+    "total_population": 37,
     "total_percentage": 9,
     "zones": [
       {
@@ -16,8 +16,8 @@
       },
       {
         "place_name": "Free Weight Zone",
-        "population": 15,
-        "percentage": 15
+        "population": 17,
+        "percentage": 17
       },
       {
         "place_name": "Studio",
