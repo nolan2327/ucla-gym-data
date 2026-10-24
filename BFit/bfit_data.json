@@ -194660,5 +194660,3101 @@
       }
     ],
     "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 51,
+    "total_percentage": 17,
+    "time_collected": "2026-10-17T10:01:17",
+    "last_updated": "10/17/2026 09:55 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 16,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 90,
+    "total_percentage": 32,
+    "time_collected": "2026-10-17T10:31:19",
+    "last_updated": "10/17/2026 10:13 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 17,
+        "percentage": 17
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 14,
+        "percentage": 47
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 29,
+        "percentage": 36
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 69,
+    "total_percentage": 23,
+    "time_collected": "2026-10-17T11:31:19",
+    "last_updated": "10/17/2026 11:03 AM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 19,
+        "percentage": 19
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 6,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 18,
+        "percentage": 23
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 48,
+    "total_percentage": 17,
+    "time_collected": "2026-10-17T13:31:20",
+    "last_updated": "10/17/2026 01:04 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 8,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 42,
+    "total_percentage": 14,
+    "time_collected": "2026-10-17T14:31:21",
+    "last_updated": "10/17/2026 02:14 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 8,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 44,
+    "total_percentage": 15,
+    "time_collected": "2026-10-17T15:31:22",
+    "last_updated": "10/17/2026 03:06 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 10,
+        "percentage": 13
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 96,
+    "total_percentage": 30,
+    "time_collected": "2026-10-17T17:31:16",
+    "last_updated": "10/17/2026 05:25 PM",
+    "weekday": "Saturday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 25,
+        "percentage": 25
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 34,
+        "percentage": 43
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 20,
+        "percentage": 40
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 19,
+    "total_percentage": 6,
+    "time_collected": "2026-10-18T09:31:29",
+    "last_updated": "10/18/2026 09:07 AM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 5,
+        "percentage": 5
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 1,
+        "percentage": 3
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 7,
+        "percentage": 9
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 2,
+        "percentage": 4
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 4,
+        "percentage": 8
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 52,
+    "total_percentage": 18,
+    "time_collected": "2026-10-18T10:31:28",
+    "last_updated": "10/18/2026 10:04 AM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 6,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 12,
+        "percentage": 15
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 48,
+    "total_percentage": 15,
+    "time_collected": "2026-10-18T11:31:26",
+    "last_updated": "10/18/2026 11:14 AM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 17,
+        "percentage": 17
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 11,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 8,
+        "percentage": 16
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 9,
+        "percentage": 18
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 47,
+    "total_percentage": 15,
+    "time_collected": "2026-10-18T14:01:25",
+    "last_updated": "10/18/2026 01:54 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 13,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 91,
+    "total_percentage": 32,
+    "time_collected": "2026-10-18T17:31:28",
+    "last_updated": "10/18/2026 05:08 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 10,
+        "percentage": 33
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 31,
+        "percentage": 39
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 22,
+        "percentage": 44
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 90,
+    "total_percentage": 30,
+    "time_collected": "2026-10-18T19:31:28",
+    "last_updated": "10/18/2026 07:01 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 17,
+        "percentage": 17
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 29,
+        "percentage": 36
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 22,
+        "percentage": 44
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 75,
+    "total_percentage": 25,
+    "time_collected": "2026-10-18T20:31:25",
+    "last_updated": "10/18/2026 08:24 PM",
+    "weekday": "Sunday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 6,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 23,
+        "percentage": 29
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 17,
+        "percentage": 34
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 49,
+    "total_percentage": 18,
+    "time_collected": "2026-10-19T07:01:02",
+    "last_updated": "10/19/2026 06:59 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 9,
+        "percentage": 30
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 15,
+        "percentage": 19
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 71,
+    "total_percentage": 25,
+    "time_collected": "2026-10-19T08:31:01",
+    "last_updated": "10/19/2026 08:02 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 8,
+        "percentage": 27
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 17,
+        "percentage": 21
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 86,
+    "total_percentage": 32,
+    "time_collected": "2026-10-19T09:01:02",
+    "last_updated": "10/19/2026 08:38 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 15,
+        "percentage": 50
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 21,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 19,
+        "percentage": 38
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 68,
+    "total_percentage": 25,
+    "time_collected": "2026-10-19T09:31:02",
+    "last_updated": "10/19/2026 09:03 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 18,
+        "percentage": 18
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 13,
+        "percentage": 43
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 12,
+        "percentage": 15
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 57,
+    "total_percentage": 19,
+    "time_collected": "2026-10-19T10:31:00",
+    "last_updated": "10/19/2026 10:04 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 22,
+        "percentage": 28
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 61,
+    "total_percentage": 23,
+    "time_collected": "2026-10-19T11:31:03",
+    "last_updated": "10/19/2026 11:04 AM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 9,
+        "percentage": 30
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 15,
+        "percentage": 19
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 54,
+    "total_percentage": 20,
+    "time_collected": "2026-10-19T12:31:04",
+    "last_updated": "10/19/2026 12:17 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 4,
+        "percentage": 4
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 13,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 18,
+        "percentage": 36
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 59,
+    "total_percentage": 20,
+    "time_collected": "2026-10-19T13:31:00",
+    "last_updated": "10/19/2026 01:02 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 12,
+        "percentage": 15
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 17,
+        "percentage": 34
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 59,
+    "total_percentage": 20,
+    "time_collected": "2026-10-19T14:31:28",
+    "last_updated": "10/19/2026 02:02 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 15,
+        "percentage": 19
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 85,
+    "total_percentage": 30,
+    "time_collected": "2026-10-19T15:30:59",
+    "last_updated": "10/19/2026 03:18 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 8,
+        "percentage": 27
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 24,
+        "percentage": 30
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 21,
+        "percentage": 42
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 21,
+        "percentage": 42
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 94,
+    "total_percentage": 29,
+    "time_collected": "2026-10-19T16:31:04",
+    "last_updated": "10/19/2026 04:09 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 23,
+        "percentage": 23
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 33,
+        "percentage": 41
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 95,
+    "total_percentage": 33,
+    "time_collected": "2026-10-19T17:31:04",
+    "last_updated": "10/19/2026 05:08 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 18,
+        "percentage": 18
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 12,
+        "percentage": 40
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 28,
+        "percentage": 35
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 21,
+        "percentage": 42
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 86,
+    "total_percentage": 31,
+    "time_collected": "2026-10-19T20:31:03",
+    "last_updated": "10/19/2026 08:18 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 11,
+        "percentage": 37
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 31,
+        "percentage": 39
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 17,
+        "percentage": 34
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 92,
+    "total_percentage": 31,
+    "time_collected": "2026-10-19T21:31:03",
+    "last_updated": "10/19/2026 09:07 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 28,
+        "percentage": 35
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 23,
+        "percentage": 46
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 100,
+    "total_percentage": 35,
+    "time_collected": "2026-10-19T22:31:02",
+    "last_updated": "10/19/2026 10:02 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 19,
+        "percentage": 19
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 10,
+        "percentage": 33
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 26,
+        "percentage": 33
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 24,
+        "percentage": 48
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 21,
+        "percentage": 42
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 90,
+    "total_percentage": 30,
+    "time_collected": "2026-10-19T23:31:05",
+    "last_updated": "10/19/2026 11:05 PM",
+    "weekday": "Monday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 35,
+        "percentage": 44
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 20,
+        "percentage": 40
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 50,
+    "total_percentage": 18,
+    "time_collected": "2026-10-20T08:31:04",
+    "last_updated": "10/20/2026 08:10 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 15,
+        "percentage": 19
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 9,
+        "percentage": 18
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 54,
+    "total_percentage": 18,
+    "time_collected": "2026-10-20T09:31:00",
+    "last_updated": "10/20/2026 09:28 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 68,
+    "total_percentage": 21,
+    "time_collected": "2026-10-20T11:01:06",
+    "last_updated": "10/20/2026 10:33 AM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 22,
+        "percentage": 22
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 80,
+    "total_percentage": 27,
+    "time_collected": "2026-10-20T12:31:00",
+    "last_updated": "10/20/2026 12:03 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 16,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 27,
+        "percentage": 54
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 17,
+        "percentage": 34
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 52,
+    "total_percentage": 20,
+    "time_collected": "2026-10-20T13:01:01",
+    "last_updated": "10/20/2026 12:59 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 10,
+        "percentage": 33
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 49,
+    "total_percentage": 17,
+    "time_collected": "2026-10-20T14:01:02",
+    "last_updated": "10/20/2026 01:33 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 10,
+        "percentage": 13
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 56,
+    "total_percentage": 18,
+    "time_collected": "2026-10-20T14:31:02",
+    "last_updated": "10/20/2026 02:18 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 16,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 52,
+    "total_percentage": 18,
+    "time_collected": "2026-10-20T15:31:05",
+    "last_updated": "10/20/2026 03:00 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 9,
+        "percentage": 11
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 9,
+        "percentage": 18
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 92,
+    "total_percentage": 33,
+    "time_collected": "2026-10-20T16:31:04",
+    "last_updated": "10/20/2026 04:22 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 10,
+        "percentage": 33
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 25,
+        "percentage": 31
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 26,
+        "percentage": 52
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 95,
+    "total_percentage": 32,
+    "time_collected": "2026-10-20T17:31:04",
+    "last_updated": "10/20/2026 05:01 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 17,
+        "percentage": 17
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 32,
+        "percentage": 40
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 25,
+        "percentage": 50
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 75,
+    "total_percentage": 26,
+    "time_collected": "2026-10-20T18:31:06",
+    "last_updated": "10/20/2026 06:05 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 28,
+        "percentage": 35
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 18,
+        "percentage": 36
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 69,
+    "total_percentage": 24,
+    "time_collected": "2026-10-20T19:31:02",
+    "last_updated": "10/20/2026 07:24 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 10,
+        "percentage": 33
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 17,
+        "percentage": 21
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 137,
+    "total_percentage": 47,
+    "time_collected": "2026-10-20T21:31:03",
+    "last_updated": "10/20/2026 09:23 PM",
+    "weekday": "Tuesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 28,
+        "percentage": 28
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 14,
+        "percentage": 47
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 37,
+        "percentage": 46
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 28,
+        "percentage": 56
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 30,
+        "percentage": 60
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 43,
+    "total_percentage": 15,
+    "time_collected": "2026-10-21T07:01:11",
+    "last_updated": "10/21/2026 06:46 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 12,
+        "percentage": 15
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 44,
+    "total_percentage": 15,
+    "time_collected": "2026-10-21T07:31:03",
+    "last_updated": "10/21/2026 07:25 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 4,
+        "percentage": 8
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 55,
+    "total_percentage": 20,
+    "time_collected": "2026-10-21T09:01:05",
+    "last_updated": "10/21/2026 08:50 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 13,
+        "percentage": 13
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 8,
+        "percentage": 27
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 11,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 11,
+        "percentage": 22
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 59,
+    "total_percentage": 20,
+    "time_collected": "2026-10-21T10:01:00",
+    "last_updated": "10/21/2026 09:52 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 9,
+        "percentage": 30
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 16,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 6,
+        "percentage": 12
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 53,
+    "total_percentage": 18,
+    "time_collected": "2026-10-21T11:31:01",
+    "last_updated": "10/21/2026 11:19 AM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 12,
+        "percentage": 15
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 41,
+    "total_percentage": 15,
+    "time_collected": "2026-10-21T13:31:04",
+    "last_updated": "10/21/2026 01:08 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 8,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 50,
+    "total_percentage": 18,
+    "time_collected": "2026-10-21T14:01:06",
+    "last_updated": "10/21/2026 01:39 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 5,
+        "percentage": 5
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 1,
+        "percentage": 3
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 11,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 65,
+    "total_percentage": 21,
+    "time_collected": "2026-10-21T15:01:01",
+    "last_updated": "10/21/2026 02:43 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 18,
+        "percentage": 18
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 17,
+        "percentage": 21
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 16,
+        "percentage": 32
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 52,
+    "total_percentage": 18,
+    "time_collected": "2026-10-21T15:31:03",
+    "last_updated": "10/21/2026 03:01 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 8,
+        "percentage": 10
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 68,
+    "total_percentage": 23,
+    "time_collected": "2026-10-21T17:31:00",
+    "last_updated": "10/21/2026 05:06 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 17,
+        "percentage": 34
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 17,
+        "percentage": 34
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 63,
+    "total_percentage": 20,
+    "time_collected": "2026-10-21T20:01:03",
+    "last_updated": "10/21/2026 07:41 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 21,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 68,
+    "total_percentage": 22,
+    "time_collected": "2026-10-21T21:31:03",
+    "last_updated": "10/21/2026 09:13 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 22,
+        "percentage": 28
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 72,
+    "total_percentage": 23,
+    "time_collected": "2026-10-21T22:31:02",
+    "last_updated": "10/21/2026 10:22 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 23,
+        "percentage": 29
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 20,
+        "percentage": 40
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 56,
+    "total_percentage": 20,
+    "time_collected": "2026-10-21T23:31:04",
+    "last_updated": "10/21/2026 11:17 PM",
+    "weekday": "Wednesday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 5,
+        "percentage": 5
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 20,
+        "percentage": 25
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 20,
+    "total_percentage": 7,
+    "time_collected": "2026-10-22T06:31:05",
+    "last_updated": "10/22/2026 06:11 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 6,
+        "percentage": 6
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 5,
+        "percentage": 6
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 4,
+        "percentage": 8
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 3,
+        "percentage": 6
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 47,
+    "total_percentage": 15,
+    "time_collected": "2026-10-22T08:31:01",
+    "last_updated": "10/22/2026 08:04 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 54,
+    "total_percentage": 18,
+    "time_collected": "2026-10-22T10:30:57",
+    "last_updated": "10/22/2026 10:08 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 13,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 9,
+        "percentage": 18
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 51,
+    "total_percentage": 18,
+    "time_collected": "2026-10-22T12:01:04",
+    "last_updated": "10/22/2026 11:38 AM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 13,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 9,
+        "percentage": 18
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 58,
+    "total_percentage": 21,
+    "time_collected": "2026-10-22T12:31:04",
+    "last_updated": "10/22/2026 12:13 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 16,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 53,
+    "total_percentage": 18,
+    "time_collected": "2026-10-22T13:31:02",
+    "last_updated": "10/22/2026 01:03 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 7,
+        "percentage": 7
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 21,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 43,
+    "total_percentage": 13,
+    "time_collected": "2026-10-22T14:31:06",
+    "last_updated": "10/22/2026 02:03 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 0,
+        "percentage": 0
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 16,
+        "percentage": 20
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 61,
+    "total_percentage": 22,
+    "time_collected": "2026-10-22T16:01:04",
+    "last_updated": "10/22/2026 03:14 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 14,
+        "percentage": 18
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 69,
+    "total_percentage": 23,
+    "time_collected": "2026-10-22T16:31:03",
+    "last_updated": "10/22/2026 04:04 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 19,
+        "percentage": 24
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 20,
+        "percentage": 40
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 74,
+    "total_percentage": 24,
+    "time_collected": "2026-10-22T17:31:02",
+    "last_updated": "10/22/2026 05:04 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 21,
+        "percentage": 21
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 17,
+        "percentage": 21
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 20,
+        "percentage": 40
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 64,
+    "total_percentage": 23,
+    "time_collected": "2026-10-22T18:31:03",
+    "last_updated": "10/22/2026 06:06 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 6,
+        "percentage": 20
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 17,
+        "percentage": 21
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 18,
+        "percentage": 36
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 74,
+    "total_percentage": 24,
+    "time_collected": "2026-10-22T19:31:04",
+    "last_updated": "10/22/2026 07:01 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 23,
+        "percentage": 29
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 17,
+        "percentage": 34
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 79,
+    "total_percentage": 26,
+    "time_collected": "2026-10-22T20:30:58",
+    "last_updated": "10/22/2026 08:00 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 30,
+        "percentage": 38
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 12,
+        "percentage": 24
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 59,
+    "total_percentage": 22,
+    "time_collected": "2026-10-22T21:31:01",
+    "last_updated": "10/22/2026 09:02 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 8,
+        "percentage": 8
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 9,
+        "percentage": 30
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 19,
+        "percentage": 24
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 9,
+        "percentage": 18
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 73,
+    "total_percentage": 25,
+    "time_collected": "2026-10-22T22:31:02",
+    "last_updated": "10/22/2026 10:17 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 15,
+        "percentage": 15
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 23,
+        "percentage": 29
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 15,
+        "percentage": 30
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 75,
+    "total_percentage": 24,
+    "time_collected": "2026-10-22T23:31:03",
+    "last_updated": "10/22/2026 11:01 PM",
+    "weekday": "Thursday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 1,
+        "percentage": 3
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 28,
+        "percentage": 35
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 12,
+        "percentage": 24
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 25,
+        "percentage": 50
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 33,
+    "total_percentage": 10,
+    "time_collected": "2026-10-23T07:31:00",
+    "last_updated": "10/23/2026 06:42 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 9,
+        "percentage": 11
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 3,
+        "percentage": 6
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 5,
+        "percentage": 10
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 43,
+    "total_percentage": 15,
+    "time_collected": "2026-10-23T08:01:03",
+    "last_updated": "10/23/2026 07:47 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 10,
+        "percentage": 13
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 7,
+        "percentage": 14
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 46,
+    "total_percentage": 17,
+    "time_collected": "2026-10-23T09:01:04",
+    "last_updated": "10/23/2026 08:55 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 11,
+        "percentage": 11
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 8,
+        "percentage": 27
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 11,
+        "percentage": 14
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 5,
+        "percentage": 10
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 63,
+    "total_percentage": 20,
+    "time_collected": "2026-10-23T11:01:02",
+    "last_updated": "10/23/2026 10:51 AM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 2,
+        "percentage": 7
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 17,
+        "percentage": 21
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 70,
+    "total_percentage": 23,
+    "time_collected": "2026-10-23T12:31:04",
+    "last_updated": "10/23/2026 12:08 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 14,
+        "percentage": 14
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 3,
+        "percentage": 10
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 22,
+        "percentage": 28
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 16,
+        "percentage": 32
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 15,
+        "percentage": 30
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 59,
+    "total_percentage": 20,
+    "time_collected": "2026-10-23T13:31:04",
+    "last_updated": "10/23/2026 01:20 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 7,
+        "percentage": 23
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 13,
+        "percentage": 16
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 13,
+        "percentage": 26
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 10,
+        "percentage": 20
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 51,
+    "total_percentage": 16,
+    "time_collected": "2026-10-23T14:31:05",
+    "last_updated": "10/23/2026 02:04 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 10,
+        "percentage": 10
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 20,
+        "percentage": 25
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 9,
+        "percentage": 18
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 8,
+        "percentage": 16
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 57,
+    "total_percentage": 19,
+    "time_collected": "2026-10-23T15:31:04",
+    "last_updated": "10/23/2026 03:06 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 9,
+        "percentage": 9
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 4,
+        "percentage": 13
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 21,
+        "percentage": 26
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 79,
+    "total_percentage": 28,
+    "time_collected": "2026-10-23T16:31:03",
+    "last_updated": "10/23/2026 04:13 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 12,
+        "percentage": 40
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 27,
+        "percentage": 34
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 79,
+    "total_percentage": 28,
+    "time_collected": "2026-10-23T17:01:05",
+    "last_updated": "10/23/2026 04:49 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 16,
+        "percentage": 16
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 12,
+        "percentage": 40
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 27,
+        "percentage": 34
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 11,
+        "percentage": 22
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 13,
+        "percentage": 26
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 94,
+    "total_percentage": 31,
+    "time_collected": "2026-10-23T17:31:02",
+    "last_updated": "10/23/2026 05:08 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 22,
+        "percentage": 22
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 5,
+        "percentage": 17
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 26,
+        "percentage": 33
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 14,
+        "percentage": 28
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 27,
+        "percentage": 54
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 80,
+    "total_percentage": 30,
+    "time_collected": "2026-10-23T18:01:03",
+    "last_updated": "10/23/2026 05:58 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 12,
+        "percentage": 12
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 11,
+        "percentage": 37
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 19,
+        "percentage": 24
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 19,
+        "percentage": 38
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 19,
+        "percentage": 38
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "facility": 1,
+    "total_population": 76,
+    "total_percentage": 27,
+    "time_collected": "2026-10-23T19:31:03",
+    "last_updated": "10/23/2026 07:03 PM",
+    "weekday": "Friday",
+    "zones": [
+      {
+        "place_name": "Cardio Zones 1&2",
+        "population": 13,
+        "percentage": 13
+      },
+      {
+        "place_name": "Flexibility Zones",
+        "population": 12,
+        "percentage": 40
+      },
+      {
+        "place_name": "Free Weight & Squat Zones",
+        "population": 27,
+        "percentage": 34
+      },
+      {
+        "place_name": "Cable, Synergy Zones",
+        "population": 10,
+        "percentage": 20
+      },
+      {
+        "place_name": "Selectorized Zone",
+        "population": 14,
+        "percentage": 28
+      }
+    ],
+    "__v": 0
   }
 ]
